@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AntoineSere
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jasmin-lang/jasmin
+  - EasyCrypt/easycrypt
+  - formosa-crypto/hakyber
+  - AntoineSere/AntoineSere.github.io
